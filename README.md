@@ -12,7 +12,7 @@ These applications are:
 - great for improving your coding skills :muscle:;
 - great for experimenting with new technologies 🆕;
 - great for adding to your portfolio to impress your next employer/client :file_folder:;
-- great for using as examples in tutorials (articles or videos) :page_with_curl:;
+- great for using as examples in tutorials (articles or videos) :psdsage_with_curl:;
 - easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
